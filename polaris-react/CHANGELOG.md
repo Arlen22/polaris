@@ -1,5 +1,18 @@
 # Changelog
 
+## 12.0.0-beta.2
+
+### Minor Changes
+
+- [#10722](https://github.com/Shopify/polaris/pull/10722) [`14a94967d`](https://github.com/Shopify/polaris/commit/14a94967da24697830780a4978def80f98823f8c) Thanks [@laurkim](https://github.com/laurkim)! - Added support for `emphasis` and `text` tones on `Icon` and migrated `primary` and `subdued` tone color tokens
+
+* [#10727](https://github.com/Shopify/polaris/pull/10727) [`179b481d7`](https://github.com/Shopify/polaris/commit/179b481d745c9e69880bd31cca409071ddf1845d) Thanks [@laurkim](https://github.com/laurkim)! - Migrated `space` custom properties from v11 to v12
+
+### Patch Changes
+
+- Updated dependencies [[`08aaf11ec`](https://github.com/Shopify/polaris/commit/08aaf11ec59680155476a20036a672795c2bad47)]:
+  - @shopify/polaris-tokens@8.0.0-beta.1
+
 ## 12.0.0-beta.1
 
 ### Major Changes
@@ -71,6 +84,7 @@
 
 * Updated dependencies [[`86d4040c0`](https://github.com/Shopify/polaris/commit/86d4040c052a0dba0cb6f0d6e0f6fb8faf14c532)]:
   - @shopify/polaris-tokens@7.13.0-beta.0
+
 ## 11.24.0
 
 ### Minor Changes

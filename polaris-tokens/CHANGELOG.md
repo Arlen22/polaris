@@ -1,5 +1,11 @@
 # Changelog
 
+## 8.0.0-beta.1
+
+### Major Changes
+
+- [#10673](https://github.com/Shopify/polaris/pull/10673) [`08aaf11ec`](https://github.com/Shopify/polaris/commit/08aaf11ec59680155476a20036a672795c2bad47) Thanks [@lgriffee](https://github.com/lgriffee)! - Updated `font-size` and `font-weight` token values
+
 ## 7.13.0-beta.0
 
 ### Minor Changes

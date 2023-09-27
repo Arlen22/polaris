@@ -1,5 +1,12 @@
 # Changelog
 
+## 14.1.2-beta.1
+
+### Patch Changes
+
+- Updated dependencies [[`08aaf11ec`](https://github.com/Shopify/polaris/commit/08aaf11ec59680155476a20036a672795c2bad47)]:
+  - @shopify/polaris-tokens@8.0.0-beta.1
+
 ## 14.1.2-beta.0
 
 ### Patch Changes
